@@ -9,7 +9,7 @@
 <a name="Description"></a>
 ## Description
 
-This is a fast food website project, specific to a burger eatery. Included is a section on the description of their services, a section on what meals you can order from the eatery, a section on access of the mobile app and contact information about the eatery
+This is an insurance company website project. Included is a section on the description of their services, a section on people in the company, pricing and contact information about the company
 The app also includes pictures in relation to each section mentioned
 
 The application is mainly based on HTML and CSS, because they are easy to use, easy to understandand web design languages.
@@ -44,7 +44,7 @@ and configure git
 
 Fork the project from the remote repo;
 
-https://github.com/Joe-Kimani/Week1_Project
+https://github.com/Joe-Kimani/Week2_Project
 
 And then clone it to your local repo
 
