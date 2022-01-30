@@ -10,7 +10,7 @@
 ## Description
 
 This is an insurance company website project. Included is a section on the description of their services, a section on people in the company, pricing and contact information about the company
-The app also includes pictures in relation to each section mentioned
+The app also includes pictures in relation to each section mentioned.
 
 The application is mainly based on HTML and CSS, because they are easy to use, easy to understandand web design languages.
 They also build the basics of web design and are quit handy as junior developer.
