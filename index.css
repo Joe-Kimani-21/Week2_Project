@@ -166,7 +166,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 691px;
-  left: 178px;
+  left: 90px;
   overflow: hidden;
 }
 .v1_14 {
@@ -176,7 +176,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 691px;
-  left: 566px;
+  left: 485px;
   overflow: hidden;
 }
 .v2_15 {
@@ -186,7 +186,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 691px;
-  left: 970px;
+  left: 880px;
   overflow: hidden;
 }
 .v2_18 {
@@ -194,7 +194,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 817px;
-  left: 589px;
+  left: 520px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 18px;
@@ -206,7 +206,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 770px;
-  left: 589px;
+  left: 520px;
   font-family: Roboto;
   font-weight: Bold;
   font-size: 32px;
@@ -218,7 +218,7 @@ body {
   color: rgba(255,255,255,1);
   position: absolute;
   top: 770px;
-  left: 1000px;
+  left: 910px;
   font-family: Roboto;
   font-weight: Bold;
   font-size: 32px;
@@ -230,7 +230,7 @@ body {
   color: rgba(255,255,255,1);
   position: absolute;
   top: 817px;
-  left: 1000px;
+  left: 910px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 18px;
@@ -242,7 +242,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 817px;
-  left: 196px;
+  left: 120px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 18px;
@@ -290,7 +290,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 770px;
-  left: 196px;
+  left: 120px;
   font-family: Roboto;
   font-weight: Bold;
   font-size: 32px;
