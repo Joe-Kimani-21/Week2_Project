@@ -92,7 +92,7 @@ body {
   color: rgba(255,255,255,1);
   position: absolute;
   top: 437px;
-  left: 517px;
+  left: 470px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 18px;
@@ -116,7 +116,7 @@ body {
   color: rgba(255,255,255,1);
   position: absolute;
   top: 234px;
-  left: 430px;
+  left: 380px;
   font-family: Roboto;
   font-weight: Bold;
   font-size: 70px;
@@ -254,7 +254,7 @@ body {
   color: rgba(91,87,87,1);
   position: absolute;
   top: 1331px;
-  left: 589px;
+  left: 549px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 18px;
@@ -266,7 +266,7 @@ body {
   color: rgba(91,87,87,1);
   position: absolute;
   top: 1331px;
-  left: 970px;
+  left: 930px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 18px;
@@ -278,7 +278,7 @@ body {
   color: rgba(91,87,87,1);
   position: absolute;
   top: 1331px;
-  left: 196px;
+  left: 156px;
   font-family: Roboto;
   font-weight: Regular;
   font-size: 18px;
@@ -302,7 +302,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 1283px;
-  left: 589px;
+  left: 549px;
   font-family: Roboto;
   font-weight: Bold;
   font-size: 24px;
@@ -314,7 +314,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 1283px;
-  left: 970px;
+  left: 930px;
   font-family: Roboto;
   font-weight: Bold;
   font-size: 24px;
@@ -326,7 +326,7 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 1283px;
-  left: 196px;
+  left: 156px;
   font-family: Roboto;
   font-weight: Bold;
   font-size: 24px;
@@ -1733,7 +1733,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1084px;
-  left: 990px;
+  left: 950px;
   overflow: hidden;
 }
 .v6_161 {
@@ -1746,7 +1746,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1087px;
-  left: 632px;
+  left: 600px;
   overflow: hidden;
 }
 .v6_162 {
@@ -1759,7 +1759,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 1083px;
-  left: 240px;
+  left: 190px;
   overflow: hidden;
 }
 
