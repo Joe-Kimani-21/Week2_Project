@@ -34,13 +34,6 @@ Project is created with;
 <a name="Installation"></a>
 ## Installation
 
-Install git
-
-$sudo apt update
-
-$sudo apt install git
-
-and configure git
 
 Fork the project from the remote repo;
 
